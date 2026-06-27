@@ -63,6 +63,5 @@ I'm a developer who likes building clean tools, Discord bots, FiveM scripts, web
 
 <div align="center">
 
-<img src="./assets/banner.png" alt="Art frontend backend developer banner" width="100%" />
 
 </div>
