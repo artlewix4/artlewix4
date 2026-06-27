@@ -56,18 +56,7 @@ I'm a developer who likes building clean tools, Discord bots, FiveM scripts, web
 - **Web panels**: dashboards, admin panels, and clean frontend layouts.
 - **C++ tools**: Windows utilities, overlays, diagnostics, and private builds.
 
-## Current focus
 
-```ts
-const art = {
-  username: "artlewix4",
-  focus: ["Discord bots", "FiveM scripts", "Web panels", "C++ tools"],
-  languages: ["JavaScript", "TypeScript", "Python", "Lua", "C++", "C#", "HTML", "CSS"],
-  style: "clean, fast, private, polished"
-};
-```
-
----
 
 <div align="center">
 
