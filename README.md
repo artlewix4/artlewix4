@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="./assets/banner.png" alt="Art frontend backend developer banner" width="100%" />
+
+<br />
+
 # Hey, I'm Art
 
 I'm a developer who likes building clean tools, Discord bots, FiveM scripts, web projects, and Windows/C++ apps.
