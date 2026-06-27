@@ -1,3 +1,4 @@
+<!-- profile-readme-refresh: 2026-06-28 -->
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Tahoma&weight=700&size=28&duration=2600&pause=700&color=FFFFFF&center=true&vCenter=true&width=620&lines=Hey%2C+I'm+Art;C%2B%2B+%2F+Windows+Developer;UI%2C+Tools%2C+Game-Tech" alt="Typing intro" />
