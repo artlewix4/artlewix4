@@ -1,58 +1,40 @@
-<!-- profile-readme-refresh: 2026-06-28 -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Tahoma&weight=700&size=28&duration=2600&pause=700&color=FFFFFF&center=true&vCenter=true&width=620&lines=Hey%2C+I'm+Art;C%2B%2B+%2F+Windows+Developer;UI%2C+Tools%2C+Game-Tech" alt="Typing intro" />
+# Art
 
-<br />
+**C++ / Windows Developer**
 
-<a href="https://github.com/artlewix4">
-  <img src="https://komarev.com/ghpvc/?username=artlewix4&style=for-the-badge&color=111111&label=PROFILE+VIEWS" alt="Profile views" />
-</a>
-<img src="https://img.shields.io/badge/Focus-C%2B%2B%20%26%20Windows-111111?style=for-the-badge&labelColor=000000" alt="Focus" />
-<img src="https://img.shields.io/badge/Status-Building-ffffff?style=for-the-badge&labelColor=111111&color=ffffff" alt="Status" />
+Clean visuals, fast tools, private projects.
+
+![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-111111?style=for-the-badge&logo=windows&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-111111?style=for-the-badge&logo=visualstudio&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-### About me
-
 ```cpp
-struct Art {
+struct Profile {
     const char* username = "artlewix4";
-    const char* focus    = "C++, Windows internals, UI systems";
-    const char* style    = "clean visuals, fast tools, sharp details";
-    bool ships_private_projects = true;
+    const char* focus = "C++, Windows internals, UI systems";
+    const char* style = "simple, sharp, polished";
+    bool public_polish = true;
 };
 ```
 
-I build small, sharp Windows projects with a focus on performance, visuals, and practical tooling.
-Most of my best work lives in private repositories, but I keep this profile as the front door.
+### What I Work On
 
-### Stack
+- Windows tools
+- C++ projects
+- ImGui / DirectX interfaces
+- Debugging and diagnostics
+- Private builds with clean UI details
 
-<div align="center">
+### Current Focus
 
-<img src="https://skillicons.dev/icons?i=cpp,cs,visualstudio,cmake,git,github,windows,discord&theme=dark" alt="Tech stack" />
-
-</div>
-
-### What I like working on
-
-- C++ desktop tooling
-- DirectX / ImGui interfaces
-- Windows debugging and diagnostics
-- Clean overlays, HUDs, and visual systems
-- Automation around private projects
-
-### GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=artlewix4&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=d7d7d7&icon_color=ffffff" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artlewix4&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=d7d7d7" alt="Top languages" />
-
-</div>
+Building private Windows projects with better visuals, smoother UX, and less noise.
 
 ---
 
