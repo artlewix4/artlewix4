@@ -60,6 +60,6 @@ I'm a developer who likes building clean tools, Discord bots, FiveM scripts, web
 
 <div align="center">
 
-**private repos, public polish**
+
 
 </div>
