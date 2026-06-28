@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="Art frontend backend developer banner" width="100%" />
-
 <br />
 
 <img src="https://readme-typing-svg.demolab.com?font=Tahoma&weight=700&size=28&duration=2600&pause=700&color=FFFFFF&center=true&vCenter=true&width=760&lines=Hey%2C+I'm+Art;Discord+Bot+Developer;FiveM+Script+Developer;Frontend+%2F+Backend+Developer;C%2B%2B+%2F+Windows+Tools" alt="Typing intro" />
