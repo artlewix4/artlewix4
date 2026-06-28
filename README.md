@@ -22,12 +22,6 @@
 - Most of my serious work is private, but I keep the public side clean.
 
 ```ts
-const art = {
-  username: "artlewix4",
-  focus: ["Discord bots", "FiveM scripts", "Web panels", "C++ tools"],
-  languages: ["JavaScript", "TypeScript", "Python", "Lua", "C++", "C#", "HTML", "CSS"],
-  style: "clean, fast, private, polished"
-};
 ```
 
 ## Languages and tools
