@@ -21,8 +21,6 @@
 - I work with frontend, backend, game server scripts, bots, and desktop tooling.
 - Most of my serious work is private, but I keep the public side clean.
 
-```ts
-```
 
 ## Languages and tools
 
