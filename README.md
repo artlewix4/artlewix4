@@ -34,8 +34,6 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=artlewix4&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artlewix4&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=c9d1d9&langs_count=10" alt="Most used languages" />
 
 <br />
 
