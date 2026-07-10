@@ -20,6 +20,27 @@
 
 Most of my work lives behind the scenes in private repositories. I am constantly experimenting, learning, and refining the way I build.
 
+<div align="center">
+
+<table>
+<tr>
+<td width="240" align="center">
+<sub>CURRENT MODE</sub><br /><br />
+<b>Building with purpose</b>
+</td>
+<td width="240" align="center">
+<sub>APPROACH</sub><br /><br />
+<b>Simple. Fast. Refined.</b>
+</td>
+<td width="240" align="center">
+<sub>NEXT STEP</sub><br /><br />
+<b>Better than yesterday</b>
+</td>
+</tr>
+</table>
+
+</div>
+
 <br />
 
 ## `02.` Tech stack
@@ -54,31 +75,9 @@ Most of my work lives behind the scenes in private repositories. I am constantly
 <img width="35.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=artlewix4&theme=github_dark" alt="GitHub stats" />
 <img width="35.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=artlewix4&theme=github_dark&utcOffset=3" alt="Productive time" />
 
-</div>
-
-<br />
-
-## `04.` Contribution flow
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=artlewix4&bg_color=0d1117&color=8b949e&line=58a6ff&point=f0f6fc&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Activity" alt="Art's contribution activity" />
-
-</div>
-
-<br />
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=1f6feb&section=footer" width="72%" alt="Divider" />
-
-<br />
-
-<code>BUILD QUIETLY · SHIP CAREFULLY · KEEP IMPROVING</code>
-
 <br />
 <br />
 
-<sub>Thanks for stopping by.</sub>
+<img width="72%" src="https://streak-stats.demolab.com?user=artlewix4&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=1F6FEB&currStreakLabel=58A6FF&sideLabels=8B949E&dates=6E7681" alt="Art's GitHub streak" />
 
 </div>
