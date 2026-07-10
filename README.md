@@ -10,6 +10,11 @@
 <img src="https://img.shields.io/badge/CURRENTLY_BUILDING-161b22?style=for-the-badge&logo=visualstudiocode&logoColor=58a6ff" alt="Currently building" />&nbsp;
 <img src="https://img.shields.io/badge/ALWAYS_LEARNING-161b22?style=for-the-badge&logo=bookstack&logoColor=58a6ff" alt="Always learning" />
 
+<br />
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=artlewix4&style=flat-square&label=PROFILE+VISITS&color=1f6feb&labelColor=161b22" alt="Profile visits" />
+
 </div>
 
 <br />
