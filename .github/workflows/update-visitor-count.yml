@@ -1,0 +1,52 @@
+name: Update visitor badge
+
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Read count and build badge
+        shell: python
+        run: |
+          import html
+          import re
+          import urllib.request
+
+          url = "https://komarev.com/ghpvc/?username=artlewix4&base=832"
+          source = urllib.request.urlopen(url).read().decode("utf-8")
+          match = re.search(r"PROFILE VIEWS:\s*([\d,]+)", source)
+          if not match:
+              raise RuntimeError("Visitor count could not be read")
+
+          count = match.group(1)
+          svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="136" height="28" role="img" aria-label="VISITORS: {html.escape(count)}">
+            <title>VISITORS: {html.escape(count)}</title>
+            <g shape-rendering="crispEdges">
+              <rect width="82" height="28" fill="#0d1117"/>
+              <rect x="82" width="54" height="28" fill="#1f6feb"/>
+            </g>
+            <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="10" letter-spacing="1.1">
+              <text x="41" y="17.5">VISITORS</text>
+              <text x="109" y="17.5" font-weight="bold">{html.escape(count)}</text>
+            </g>
+          </svg>
+          '''
+          with open("assets/visitor-count.svg", "w", encoding="utf-8", newline="\n") as file:
+              file.write(svg)
+
+      - name: Publish changed count
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/visitor-count.svg
+          git diff --cached --quiet || git commit -m "Update visitor count"
+          git push
