@@ -6,9 +6,9 @@
 
 <br />
 
-<a href="https://github.com/artlewix4?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work" /></a>
-<img src="https://komarev.com/ghpvc/?username=artlewix4&style=for-the-badge&label=PROFILE+VIEWS&color=21262d" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/artlewix4?style=for-the-badge&label=FOLLOWERS&color=21262d&logo=github" alt="GitHub followers" />
+<a href="https://github.com/artlewix4?tab=repositories"><img src="https://img.shields.io/badge/VIEW_PROJECTS-1f6feb?style=for-the-badge&logo=github&logoColor=ffffff" alt="View projects" /></a>&nbsp;
+<img src="https://img.shields.io/badge/CURRENTLY_BUILDING-161b22?style=for-the-badge&logo=visualstudiocode&logoColor=58a6ff" alt="Currently building" />&nbsp;
+<img src="https://img.shields.io/badge/ALWAYS_LEARNING-161b22?style=for-the-badge&logo=bookstack&logoColor=58a6ff" alt="Always learning" />
 
 </div>
 
