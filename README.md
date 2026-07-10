@@ -75,9 +75,4 @@ Most of my work lives behind the scenes in private repositories. I am constantly
 <img width="35.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=artlewix4&theme=github_dark" alt="GitHub stats" />
 <img width="35.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=artlewix4&theme=github_dark&utcOffset=3" alt="Productive time" />
 
-<br />
-<br />
-
-<img width="72%" src="https://streak-stats.demolab.com?user=artlewix4&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=1F6FEB&currStreakLabel=58A6FF&sideLabels=8B949E&dates=6E7681" alt="Art's GitHub streak" />
-
 </div>
