@@ -1,61 +1,84 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0d1117,55:161b22,100:1f6feb&text=ART&fontColor=f0f6fc&fontSize=58&fontAlignY=36&desc=Ideas%20%E2%86%92%20Code%20%E2%86%92%20Reality&descAlignY=57&descSize=16&animation=fadeIn" alt="Art — Ideas to reality" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2400&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=45&lines=Turning+ideas+into+real+things.;Clean+code.+Sharp+design.;Always+building.+Always+improving." alt="Typing introduction" />
+
 <br />
 
-<h1>Hey, I'm Art.</h1>
-
-<p>
-  I enjoy turning ideas into thoughtful, reliable digital experiences.<br />
-  Always learning, refining, and building with care.
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=artlewix4&style=flat-square&label=Profile+views&color=30363d" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Currently-building-161b22?style=flat-square&logo=github&logoColor=8b949e" alt="Currently building" />
-  <img src="https://img.shields.io/badge/Focus-quality%20%26%20craft-161b22?style=flat-square&logo=sparkles&logoColor=8b949e" alt="Focus: quality and craft" />
-</p>
+<a href="https://github.com/artlewix4?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work" /></a>
+<img src="https://komarev.com/ghpvc/?username=artlewix4&style=for-the-badge&label=PROFILE+VIEWS&color=21262d" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/artlewix4?style=for-the-badge&label=FOLLOWERS&color=21262d&logo=github" alt="GitHub followers" />
 
 </div>
 
 <br />
 
-### A little about me
+## `01.` About
 
-I care about clean interfaces, dependable systems, and the small details that make a project feel complete. Most of my work lives in private repositories while I continue exploring new ideas and improving my craft.
+> I turn ideas into polished digital experiences — with a focus on clean interfaces, reliable systems, and details that make the final result feel complete.
+
+Most of my work lives behind the scenes in private repositories. I am constantly experimenting, learning, and refining the way I build.
 
 <br />
 
-### Languages & tools
+## `02.` Tech stack
 
 <div align="center">
+
+#### Languages
 
 <img src="https://skillicons.dev/icons?i=ts,js,py,lua,cpp,cs,html,css&theme=dark&perline=8" alt="Languages" />
 
-<br />
-<br />
+#### Frameworks & tools
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,mongodb,git,github,vscode&theme=dark&perline=8" alt="Tools and technologies" />
-
-</div>
-
-<br />
-
-### GitHub activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=artlewix4&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=8b949e&icon_color=58a6ff&ring_color=58a6ff&include_all_commits=true" alt="Art's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artlewix4&layout=compact&hide_title=true&hide_border=true&bg_color=00000000&text_color=8b949e&langs_count=6" alt="Art's most used languages" />
-
-<br />
-<br />
-
-<img src="https://streak-stats.demolab.com?user=artlewix4&theme=github-dark-blue&hide_border=true&background=00000000&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=8b949e&sideLabels=8b949e&dates=6e7681" alt="Art's contribution streak" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,mongodb,git,github,vscode&theme=dark&perline=8" alt="Frameworks and tools" />
 
 </div>
 
 <br />
 
+## `03.` GitHub dashboard
+
 <div align="center">
-  <sub>Build quietly. Let the work speak.</sub>
+
+<img width="72%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=artlewix4&theme=github_dark" alt="Art's GitHub profile summary" />
+
+<br />
+
+<img width="35.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=artlewix4&theme=github_dark" alt="Repositories per language" />
+<img width="35.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=artlewix4&theme=github_dark" alt="Most used commit languages" />
+
+<br />
+
+<img width="35.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=artlewix4&theme=github_dark" alt="GitHub stats" />
+<img width="35.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=artlewix4&theme=github_dark&utcOffset=3" alt="Productive time" />
+
+</div>
+
+<br />
+
+## `04.` Contribution flow
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=artlewix4&bg_color=0d1117&color=8b949e&line=58a6ff&point=f0f6fc&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Activity" alt="Art's contribution activity" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=1f6feb&section=footer" width="72%" alt="Divider" />
+
+<br />
+
+<code>BUILD QUIETLY · SHIP CAREFULLY · KEEP IMPROVING</code>
+
+<br />
+<br />
+
+<sub>Thanks for stopping by.</sub>
+
 </div>
