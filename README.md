@@ -1,17 +1,5 @@
-<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0d1117,55:161b22,100:1f6feb&text=ART&fontColor=f0f6fc&fontSize=58&fontAlignY=36&desc=Ideas%20%E2%86%92%20Code%20%E2%86%92%20Reality&descAlignY=57&descSize=16&animation=fadeIn" alt="Art — Ideas to reality" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2400&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=45&lines=Turning+ideas+into+real+things.;Clean+code.+Sharp+design.;Always+building.+Always+improving." alt="Typing introduction" />
-
-<br />
-
-<a href="https://github.com/artlewix4?tab=repositories"><img src="https://img.shields.io/badge/WORK-VIEW_PROJECTS-1f6feb?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117" alt="View projects" /></a>&nbsp;
-<img src="https://img.shields.io/badge/STATUS-BUILDING-161b22?style=for-the-badge&logo=visualstudiocode&logoColor=58a6ff&labelColor=0d1117" alt="Currently building" />&nbsp;
-<img src="https://img.shields.io/badge/MODE-LEARNING-161b22?style=for-the-badge&logo=bookstack&logoColor=58a6ff&labelColor=0d1117" alt="Always learning" />&nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2Fartlewix4-profile%2Fprofile-visitors%2Fup&query=%24.count&label=VISITORS&labelColor=0d1117&color=1f6feb&style=for-the-badge&cacheSeconds=60" alt="Live visitor count" />
-
-</div>
 
 <br />
 
