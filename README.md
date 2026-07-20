@@ -44,21 +44,3 @@ Most of my work lives behind the scenes in private repositories. I am constantly
 </div>
 
 <br />
-
-## `03.` GitHub dashboard
-
-<div align="center">
-
-<img width="72%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=artlewix4&theme=github_dark" alt="Art's GitHub profile summary" />
-
-<br />
-
-<img width="35.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=artlewix4&theme=github_dark" alt="Repositories per language" />
-<img width="35.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=artlewix4&theme=github_dark" alt="Most used commit languages" />
-
-<br />
-
-<img width="35.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=artlewix4&theme=github_dark" alt="GitHub stats" />
-<img width="35.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=artlewix4&theme=github_dark&utcOffset=3" alt="Productive time" />
-
-</div>
