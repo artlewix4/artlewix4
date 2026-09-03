@@ -1,46 +1,53 @@
+<div align="left">
+  <h1>Art</h1>
+  <p>
+    Developer at <a href="https://nodx.org">Nodx</a>
+    &nbsp;·&nbsp; Turkey
+    &nbsp;·&nbsp; <a href="https://nodx.org">nodx.org</a>
+  </p>
+</div>
+
 <br />
 
-## `01.` About
+## About
 
-> I turn ideas into polished digital experiences — with a focus on clean interfaces, reliable systems, and details that make the final result feel complete.
+I turn ideas into finished digital products. Clean interfaces, reliable systems, and the details that make the result feel complete.
 
-Most of my work lives behind the scenes in private repositories. I am constantly experimenting, learning, and refining the way I build.
+Most of my work lives in private repositories. I spend the rest of my time experimenting, learning, and tightening how I build.
 
 <div align="center">
 
 <table>
-<tr>
-<td width="240" align="center">
-<sub>CURRENT MODE</sub><br /><br />
-<b>Building with purpose</b>
-</td>
-<td width="240" align="center">
-<sub>APPROACH</sub><br /><br />
-<b>Simple. Fast. Refined.</b>
-</td>
-<td width="240" align="center">
-<sub>NEXT STEP</sub><br /><br />
-<b>Better than yesterday</b>
-</td>
-</tr>
+  <tr>
+    <td width="240" align="center" valign="top">
+      <sub>COMPANY</sub><br /><br />
+      <b><a href="https://nodx.org">Nodx</a></b>
+    </td>
+    <td width="240" align="center" valign="top">
+      <sub>FOCUS</sub><br /><br />
+      <b>Interfaces and systems</b>
+    </td>
+    <td width="240" align="center" valign="top">
+      <sub>APPROACH</sub><br /><br />
+      <b>Simple. Fast. Refined.</b>
+    </td>
+  </tr>
 </table>
 
 </div>
 
 <br />
 
-## `02.` Tech stack
+## Stack
 
 <div align="center">
 
-#### Languages
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=ts,js,py,lua,cpp,cs,html,css&theme=dark&perline=8" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=ts,js,py,lua,cpp,cs,html,css&perline=8" alt="TypeScript, JavaScript, Python, Lua, C++, C#, HTML, CSS" />
 
-#### Frameworks & tools
+**Frameworks and tools**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,mongodb,git,github,vscode&theme=dark&perline=8" alt="Frameworks and tools" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,mongodb,git,github,vscode&perline=8" alt="React, Next.js, Node.js, Tailwind CSS, MongoDB, Git, GitHub, VS Code" />
 
 </div>
-
-<br />
