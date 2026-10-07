@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./banner.jpg" alt="Banner" width="100%" />
-</p>
-
 # Hey, I'm Art
 
 I'm someone who likes himself, and likes writing code.
