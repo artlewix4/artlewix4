@@ -1,4 +1,4 @@
-<a href="https://fleet.cc">
+<a href="https://discord.gg/fleet">
   <img src="./assets/fleet-banner.webp" alt="Fleet — Dominate the game" width="100%">
 </a>
 
@@ -31,13 +31,13 @@ Right now almost all of my time goes into **Fleet**.
 <table>
 <tr>
 <td width="140" align="center" valign="middle">
-  <a href="https://fleet.cc"><img src="./assets/fleet-mark.webp" width="120" alt="Fleet"></a>
+  <a href="https://discord.gg/fleet"><img src="./assets/fleet-mark.webp" width="120" alt="Fleet"></a>
 </td>
 <td valign="middle">
 
 ### Fleet
 
-A lightweight in-game overlay for **FiveM**, built end to end by our team — from the native client to the license server, the Discord bot and the website at [**fleet.cc**](https://fleet.cc).
+A lightweight in-game overlay for **FiveM**, built end to end by our team — from the native client to the license server and the Discord bot.
 
 `stream-proof` &nbsp;·&nbsp; `low-spec mode` &nbsp;·&nbsp; `cloud configs` &nbsp;·&nbsp; `live support`
 
