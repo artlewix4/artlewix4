@@ -46,24 +46,9 @@ A lightweight in-game overlay for **FiveM**, built end to end by our team — fr
 </tr>
 </table>
 
-| Piece | What it does | Built with |
-| :-- | :-- | :-- |
-| <img src="./assets/fleet-mark.webp" width="22" height="22" align="absmiddle" alt="">&nbsp; **Fleet Exe** | Native client and overlay | ![C](https://img.shields.io/badge/C-0B0F14?style=flat-square&logo=c&logoColor=8FE3FF) ![C++](https://img.shields.io/badge/C++-0B0F14?style=flat-square&logo=cplusplus&logoColor=8FE3FF) |
-| **Fleet Loader** | Launcher UI | ![ImGui](https://img.shields.io/badge/Dear_ImGui-0B0F14?style=flat-square&logoColor=8FE3FF) ![DirectX 11](https://img.shields.io/badge/DirectX_11-0B0F14?style=flat-square&logo=directx&logoColor=8FE3FF) |
-| **Fleet Auth** | Licensing and key management | ![TypeScript](https://img.shields.io/badge/TypeScript-0B0F14?style=flat-square&logo=typescript&logoColor=8FE3FF) ![Node.js](https://img.shields.io/badge/Node.js-0B0F14?style=flat-square&logo=nodedotjs&logoColor=8FE3FF) |
-| **Fleet Bot** | Tickets, orders and updates on Discord | ![TypeScript](https://img.shields.io/badge/TypeScript-0B0F14?style=flat-square&logo=typescript&logoColor=8FE3FF) ![Discord](https://img.shields.io/badge/discord.js-0B0F14?style=flat-square&logo=discord&logoColor=8FE3FF) |
-| **Fleet Web** | [fleet.cc](https://fleet.cc) | ![React](https://img.shields.io/badge/React-0B0F14?style=flat-square&logo=react&logoColor=8FE3FF) ![Vite](https://img.shields.io/badge/Vite-0B0F14?style=flat-square&logo=vite&logoColor=8FE3FF) |
-
 <p align="center">
   <a href="https://discord.gg/fleet"><b>Join the Discord →</b></a>
 </p>
-
-<img src="./assets/divider.svg" width="100%" alt="">
-
-### ▲ Also building
-
-- **Jarvis** — a voice-enabled AI assistant and coding agent for Windows, built with Dear ImGui.
-- **KINEMA** — a premium video editing platform, with its own Discord bot for order operations.
 
 <img src="./assets/divider.svg" width="100%" alt="">
 
