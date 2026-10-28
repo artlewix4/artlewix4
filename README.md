@@ -10,7 +10,6 @@
 
 <br>
 
-<a href="https://fleet.cc"><img src="https://img.shields.io/badge/fleet.cc-0B0F14?style=for-the-badge&logo=googlechrome&logoColor=8FE3FF" alt="Website"></a>
 <a href="https://discord.gg/fleet"><img src="https://img.shields.io/badge/Discord-0B0F14?style=for-the-badge&logo=discord&logoColor=8FE3FF" alt="Discord"></a>
 <a href="https://www.youtube.com/@Fleetprivate"><img src="https://img.shields.io/badge/YouTube-0B0F14?style=for-the-badge&logo=youtube&logoColor=8FE3FF" alt="YouTube"></a>
 <img src="https://komarev.com/ghpvc/?username=artlewix4&style=for-the-badge&color=0B0F14&label=PROFILE+VIEWS" alt="Profile views">
