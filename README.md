@@ -48,7 +48,7 @@ A lightweight in-game overlay for **FiveM**, built end to end by our team — fr
 
 | Piece | What it does | Built with |
 | :-- | :-- | :-- |
-| **Fleet Exe** | Native client and overlay | ![C](https://img.shields.io/badge/C-0B0F14?style=flat-square&logo=c&logoColor=8FE3FF) ![C++](https://img.shields.io/badge/C++-0B0F14?style=flat-square&logo=cplusplus&logoColor=8FE3FF) |
+| <img src="./assets/fleet-mark.webp" width="22" height="22" align="absmiddle" alt="">&nbsp; **Fleet Exe** | Native client and overlay | ![C](https://img.shields.io/badge/C-0B0F14?style=flat-square&logo=c&logoColor=8FE3FF) ![C++](https://img.shields.io/badge/C++-0B0F14?style=flat-square&logo=cplusplus&logoColor=8FE3FF) |
 | **Fleet Loader** | Launcher UI | ![ImGui](https://img.shields.io/badge/Dear_ImGui-0B0F14?style=flat-square&logoColor=8FE3FF) ![DirectX 11](https://img.shields.io/badge/DirectX_11-0B0F14?style=flat-square&logo=directx&logoColor=8FE3FF) |
 | **Fleet Auth** | Licensing and key management | ![TypeScript](https://img.shields.io/badge/TypeScript-0B0F14?style=flat-square&logo=typescript&logoColor=8FE3FF) ![Node.js](https://img.shields.io/badge/Node.js-0B0F14?style=flat-square&logo=nodedotjs&logoColor=8FE3FF) |
 | **Fleet Bot** | Tickets, orders and updates on Discord | ![TypeScript](https://img.shields.io/badge/TypeScript-0B0F14?style=flat-square&logo=typescript&logoColor=8FE3FF) ![Discord](https://img.shields.io/badge/discord.js-0B0F14?style=flat-square&logo=discord&logoColor=8FE3FF) |
