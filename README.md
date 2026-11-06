@@ -10,8 +10,6 @@
 
 <h2 align="center">About me</h2>
 
-<img align="right" src="./assets/astronaut.svg" width="240" alt="A small astronaut floating in space">
-
 Hello there! I'm **Art**. I'm someone who likes himself, and likes writing code.
 
 I turn ideas into things you can actually use: clean interfaces, reliable systems, and the small details that make the final result feel complete. A lot of my work lives in private repositories, but the way I work is the same either way: **try, learn, refine, then try again.**
@@ -19,8 +17,6 @@ I turn ideas into things you can actually use: clean interfaces, reliable system
 - Building desktop apps, websites and Discord bots
 - Always looking for a cleaner way to do it
 - Simple. Fast. Refined. Better than yesterday...
-
-<br clear="right">
 
 <h2 align="center">Technologies</h2>
 
