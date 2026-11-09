@@ -7,5 +7,3 @@
   <img src="https://img.shields.io/badge/Based_in_Turkey-0d1117?style=for-the-badge" alt="Based in Turkey">
   <img src="https://komarev.com/ghpvc/?username=artlewix4&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS" alt="Profile views">
 </p>
-
-<h2 align="center">Technologies</h2>
