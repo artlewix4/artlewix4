@@ -4,6 +4,5 @@
 
 <p align="center">
   <a href="https://github.com/artlewix4"><img src="https://img.shields.io/badge/artlewix4-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3" alt="GitHub"></a>
-  <img src="https://img.shields.io/badge/Based_in_Turkey-0d1117?style=for-the-badge" alt="Based in Turkey">
   <img src="https://komarev.com/ghpvc/?username=artlewix4&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS" alt="Profile views">
 </p>
